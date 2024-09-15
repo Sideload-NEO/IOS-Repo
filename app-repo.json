@@ -47,7 +47,7 @@
       },
       {
         "name": "Undertale",
-        "bundleIdentifier": "com.blozzz.undertale",
+        "bundleIdentifier": "com.jockelholm.undertale",
         "developerName": "Blozzz",
         "iconURL": "https://github.com/Sideload-NEO/IOS-Repo/blob/main/Images/undertale.png?raw=true",
         "localizedDescription": "An Undertale IOS port.",
