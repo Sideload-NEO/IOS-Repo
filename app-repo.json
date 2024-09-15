@@ -13,7 +13,7 @@
         "tintColor": "8791fa",
         "size": 12480714,
         "version": "1.0.1",
-        "date": "2024-09-14",
+        "versionDate": "2024-09-14",
         "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/feather_v1.0.1.ipa",
         "appPermissions": {}
       },
@@ -27,7 +27,7 @@
         "tintColor": "4fa5f8",
         "size": 7245924,
         "version": "5.0.2",
-        "date": "2024-09-14",
+        "versionDate": "2024-09-14",
         "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/ESign-V5.0.2-No-Logs.ipa",
         "appPermissions": {}
       },
@@ -41,7 +41,7 @@
         "tintColor": "8791fa",
         "size": 12375230,
         "version": "1.0",
-        "date": "2024-09-15",
+        "versionDate": "2024-09-15",
         "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/feather_v1.0.ipa",
         "appPermissions": {}
       },
@@ -55,7 +55,7 @@
         "tintColor": "ff0000",
         "size": 140504128,
         "version": "1.08",
-        "date": "2024-09-15",
+        "versionDate": "2024-09-15",
         "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/UNDERTALE.ipa",
         "appPermissions": {}
       },
@@ -69,7 +69,7 @@
         "tintColor": "8c6219",
         "size": 8358472,
         "version": "1.0",
-        "date": "2024-09-15",
+        "versionDate": "2024-09-15",
         "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/Nugget.ipa",
         "appPermissions": {}
       },
@@ -83,7 +83,7 @@
         "tintColor": "8c6219",
         "size": 182425804,
         "version": "0.7.3",
-        "date": "2024-09-15",
+        "versionDate": "2024-09-15",
         "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/PsychEngine073.ipa",
         "appPermissions": {}
       },
@@ -97,8 +97,8 @@
         "tintColor": "8c6219",
         "size": 182425804,
         "version": "0.6.3",
-        "date": "2024-09-15",
-        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/PsychEngine063.ipa",
+        "versionDate": "2024-09-15",
+        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/PsychEngine073.ipa",
         "appPermissions": {}
       }
     ],
