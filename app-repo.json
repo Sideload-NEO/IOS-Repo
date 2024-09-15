@@ -1,33 +1,22 @@
 {
     "name": "Sideload NEO Repository",
     "identifier": "sideload.ipa-repo",
-    "iconURL": "https://github.com/Sideload-NEO/IOS-Repo/blob/main/Images/sideload-neo.png?raw=true",
+    "iconURL": "https://github.com/khcrysalis/Feather/blob/main/iOS/Icons/Main/Mac%403x.png?raw=true",
     "apps": [
       {
-      "name": "Feather",
-      "bundleIdentifier": "kh.crysalis.feather",
-      "developerName": "Samara",
-      "tintColor": "8791fa",
-      "subtitle": "On-device signing application",
-      "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.",
-      "iconURL": "https://github.com/Sideload-NEO/IOS-Repo/blob/main/Images/feather.png?raw=true",
-      "versions": [
-        {
-          "version": "1.0.1",
-          "date": "2024-09-14",
-          "size": 12375230,
-          "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/feather_v1.0.1.ipa",
-          "localizedDescription": ""
-        },
-        {
-          "version": "1.0.",
-          "date": "2024-09-14",
-          "size": 12480714,
-          "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/feather_v1.0.ipa",
-          "localizedDescription": ""
-        }
-      ]
-    },
+        "name": "Feather",
+        "bundleIdentifier": "kh.crysalis.feather",
+        "developerName": "Samara",
+        "iconURL": "https://github.com/Sideload-NEO/IOS-Repo/blob/main/Images/feather.png?raw=true",
+        "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.",
+        "subtitle": "On-device signing application",
+        "tintColor": "8791fa",
+        "size": 12480714,
+        "version": "1.0.1",
+        "versionDate": "2024-09-14",
+        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/feather_v1.0.1.ipa",
+        "appPermissions": {}
+      },
       {
         "name": "ESign No Logs",
         "bundleIdentifier": "xyz.yyyue.esign",
@@ -40,6 +29,20 @@
         "version": "5.0.2",
         "versionDate": "2024-09-14",
         "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/ESign-V5.0.2-No-Logs.ipa",
+        "appPermissions": {}
+      },
+      {
+        "name": "Feather",
+        "bundleIdentifier": "kh.crysalis.feather",
+        "developerName": "Samara",
+        "iconURL": "https://github.com/Sideload-NEO/IOS-Repo/blob/main/Images/feather.png?raw=true",
+        "localizedDescription": "ESign but telemetry is removed.",
+        "subtitle": "On-device signing application",
+        "tintColor": "8791fa",
+        "size": 12375230,
+        "version": "1.0",
+        "versionDate": "2024-09-15",
+        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/feather_v1.0.ipa",
         "appPermissions": {}
       },
       {
