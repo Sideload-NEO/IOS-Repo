@@ -72,6 +72,34 @@
         "versionDate": "2024-09-15",
         "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/Nugget.ipa",
         "appPermissions": {}
+      },
+      {
+        "name": "Friday Night Funkin': Psych Engine",
+        "bundleIdentifier": "com.shadowmario.psychengine",
+        "developerName": "mcagabe19",
+        "iconURL": "https://github.com/Sideload-NEO/IOS-Repo/blob/main/Images/funkin.png?raw=true",
+        "localizedDescription": "Friday Night Funkin': Psych Engine IOS Port. Made by: mcagabe19",
+        "subtitle": "Friday Night Funkin': Psych Engine IOS Port. Made by: mcagabe19",
+        "tintColor": "8c6219",
+        "size": 182425804,
+        "version": "0.7.3",
+        "versionDate": "2024-09-15",
+        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/PsychEngine073.ipa",
+        "appPermissions": {}
+      },
+      {
+        "name": "Friday Night Funkin': Psych Engine",
+        "bundleIdentifier": "com.shadowmario.psychengine",
+        "developerName": "mcagabe19",
+        "iconURL": "https://github.com/Sideload-NEO/IOS-Repo/blob/main/Images/funkin.png?raw=true",
+        "localizedDescription": "Friday Night Funkin': Psych Engine IOS Port. Made by: mcagabe19",
+        "subtitle": "Friday Night Funkin': Psych Engine IOS Port. Made by: mcagabe19",
+        "tintColor": "8c6219",
+        "size": 182425804,
+        "version": "0.6.3",
+        "versionDate": "2024-09-15",
+        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/PsychEngine063.ipa",
+        "appPermissions": {}
       }
     ],
     "news": []
