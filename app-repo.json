@@ -100,6 +100,20 @@
         "versionDate": "2024-09-15",
         "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/PsychEngine073.ipa",
         "appPermissions": {}
+      },
+      {
+        "name": "Scarlet",
+        "bundleIdentifier": "com.DebianArch.ScarletPersonalXYZZZ",
+        "developerName": "usescarlet.com",
+        "iconURL": "https://github.com/Sideload-NEO/IOS-Repo/blob/main/Images/funkin.png?raw=true",
+        "localizedDescription": "Download Scarlet through an IPA.",
+        "subtitle": "Download Scarlet through an IPA.",
+        "tintColor": "d52b38",
+        "size": 15518924,
+        "version": "1.0",
+        "versionDate": "2024-09-17",
+        "downloadURL": "https://resources.usescarlet.com/repo/IPAs/ScarletAlpha.ipa",
+        "appPermissions": {}
       }
     ],
     "news": []
