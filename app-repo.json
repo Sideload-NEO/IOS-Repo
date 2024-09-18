@@ -136,6 +136,17 @@
         "downloadURL": "https://resources.usescarlet.com/repo/IPAs/ScarletAlpha.ipa"
       },
       {
+        "name": "YTLitePlus",
+        "bundleIdentifier": "com.google.ios.youtube",
+        "developerName": "YTLitePlus",
+        "iconURL": "https://github.com/Sideload-NEO/IOS-Repo/blob/main/Images/ytlogo.png?raw=true",
+        "localizedDescription": "Current YouTube IPA: 19.34.2 \nCurrent YTLite Version: 5.0.1 \nCurrent App Compatibility: iOS/iPadOS 15.0 or later \nRELEASE 19.34.2-5.0.1: (2024-09-03) \nUpdated Youtube from 19.32.6 to 19.34.2 \nUpdated YTLite from 4.0.1 to 5.0.1 \nIssues in this Release: Touches will not work while bypassing startup popup \nLowContrastMode does not work (Compatible only with YouTube v17.33.2-v17.38.10",
+        "size": 113526418,
+        "version": "19.37.2",
+        "versionDate": "2024-09-18",
+        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/YTLitePlus_19.37.2_5.0.2.ipa"
+      },
+      {
         "name": "EeveeSpotify",
         "bundleIdentifier": "com.spotify.client",
         "developerName": "EeveeSpotify IPA's",
