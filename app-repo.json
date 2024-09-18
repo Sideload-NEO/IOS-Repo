@@ -9,13 +9,10 @@
         "developerName": "Samara",
         "iconURL": "https://github.com/Sideload-NEO/IOS-Repo/blob/main/Images/feather.png?raw=true",
         "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.",
-        "subtitle": "On-device signing application",
-        "tintColor": "8791fa",
         "size": 12480714,
         "version": "1.0.1",
         "versionDate": "2024-09-14",
-        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/feather_v1.0.1.ipa",
-        "appPermissions": {}
+        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/feather_v1.0.1.ipa"
       },
       {
         "name": "ESign No Logs",
@@ -23,27 +20,21 @@
         "developerName": "u/Sharp_Listen3436 & yyy",
         "iconURL": "https://github.com/Sideload-NEO/IOS-Repo/blob/main/Images/esign.png?raw=true",
         "localizedDescription": "ESign but telemetry is removed.",
-        "subtitle": "ESign No Logs.",
-        "tintColor": "4fa5f8",
         "size": 7245924,
         "version": "5.0.2",
         "versionDate": "2024-09-14",
-        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/ESign-V5.0.2-No-Logs.ipa",
-        "appPermissions": {}
+        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/ESign-V5.0.2-No-Logs.ipa"
       },
       {
         "name": "Feather",
         "bundleIdentifier": "kh.crysalis.feather",
         "developerName": "Samara",
         "iconURL": "https://github.com/Sideload-NEO/IOS-Repo/blob/main/Images/feather.png?raw=true",
-        "localizedDescription": "ESign but telemetry is removed.",
-        "subtitle": "On-device signing application",
-        "tintColor": "8791fa",
+        "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.",
         "size": 12375230,
         "version": "1.0",
         "versionDate": "2024-09-15",
-        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/feather_v1.0.ipa",
-        "appPermissions": {}
+        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/feather_v1.0.ipa"
       },
       {
         "name": "Undertale",
@@ -51,13 +42,10 @@
         "developerName": "Blozzz",
         "iconURL": "https://github.com/Sideload-NEO/IOS-Repo/blob/main/Images/undertale.png?raw=true",
         "localizedDescription": "An Undertale IOS port.",
-        "subtitle": "Undertale IOS Port.",
-        "tintColor": "ff0000",
         "size": 140504128,
         "version": "1.08",
         "versionDate": "2024-09-15",
-        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/UNDERTALE.ipa",
-        "appPermissions": {}
+        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/UNDERTALE.ipa"
       },
       {
         "name": "Nugget",
@@ -65,13 +53,10 @@
         "developerName": "Leemin",
         "iconURL": "https://github.com/Sideload-NEO/IOS-Repo/blob/main/Images/nugget.png?raw=true",
         "localizedDescription": "Unlock your device's full potential!",
-        "subtitle": "Unlock your device's full potential!",
-        "tintColor": "8c6219",
         "size": 8358472,
         "version": "1.0",
         "versionDate": "2024-09-15",
-        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/Nugget.ipa",
-        "appPermissions": {}
+        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/Nugget.ipa"
       },
       {
         "name": "Friday Night Funkin': Psych Engine",
@@ -79,13 +64,10 @@
         "developerName": "mcagabe19",
         "iconURL": "https://github.com/Sideload-NEO/IOS-Repo/blob/main/Images/funkin.png?raw=true",
         "localizedDescription": "Friday Night Funkin': Psych Engine IOS Port. Made by: mcagabe19",
-        "subtitle": "Friday Night Funkin': Psych Engine IOS Port. Made by: mcagabe19",
-        "tintColor": "8c6219",
         "size": 182425804,
         "version": "0.7.3",
         "versionDate": "2024-09-15",
-        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/PsychEngine073.ipa",
-        "appPermissions": {}
+        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/PsychEngine073.ipa"
       },
       {
         "name": "Friday Night Funkin': Psych Engine",
@@ -93,13 +75,10 @@
         "developerName": "mcagabe19",
         "iconURL": "https://github.com/Sideload-NEO/IOS-Repo/blob/main/Images/funkin.png?raw=true",
         "localizedDescription": "Friday Night Funkin': Psych Engine IOS Port. Made by: mcagabe19",
-        "subtitle": "Friday Night Funkin': Psych Engine IOS Port. Made by: mcagabe19",
-        "tintColor": "8c6219",
         "size": 182425804,
         "version": "0.6.3",
         "versionDate": "2024-09-15",
-        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/PsychEngine073.ipa",
-        "appPermissions": {}
+        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/PsychEngine073.ipa"
       },
       {
         "name": "Scarlet",
@@ -107,13 +86,25 @@
         "developerName": "usescarlet.com",
         "iconURL": "https://github.com/Sideload-NEO/IOS-Repo/blob/main/Images/scarlet.png?raw=true",
         "localizedDescription": "Download Scarlet through an IPA.",
-        "subtitle": "Download Scarlet through an IPA.",
-        "tintColor": "d52b38",
         "size": 15518924,
         "version": "1.0",
         "versionDate": "2024-09-17",
-        "downloadURL": "https://resources.usescarlet.com/repo/IPAs/ScarletAlpha.ipa",
-        "appPermissions": {}
+        "downloadURL": "https://resources.usescarlet.com/repo/IPAs/ScarletAlpha.ipa"
+      },
+      {
+        "name": "EeveeSpotify",
+        "bundleIdentifier": "com.spotify.client",
+        "developerName": "EeveeSpotify IPA's",
+        "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.locket.Locket.png",
+        "versions": [
+          {
+            "version": "8.9.76",
+            "date": "2024-09-18",
+            "size": 79401385,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-24-2024/LocketWidgetGold-1.63.0.ipa",
+            "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: Use trollfools to fix widgets."
+          }
+        ]
       }
     ],
     "news": []
