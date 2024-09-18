@@ -125,6 +125,17 @@
         "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/CodenameEngine010.ipa"
       },
       {
+        "name": "FNAF World Mobile",
+        "bundleIdentifier": "com.clickteam.fnafworld",
+        "developerName": "@lightcatdev",
+        "iconURL": "https://github.com/Sideload-NEO/IOS-Repo/blob/main/Images/fnafworld.png?raw=true",
+        "localizedDescription": "FNAF World Update 2 IOS Port by: @lightcatdev",
+        "size": 100228227,
+        "version": "1.2.4",
+        "versionDate": "2024-09-18",
+        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/fnaf-world-mobile2.ipa"
+      },
+      {
         "name": "Scarlet",
         "bundleIdentifier": "com.DebianArch.ScarletPersonalXYZZZ",
         "developerName": "usescarlet.com",
