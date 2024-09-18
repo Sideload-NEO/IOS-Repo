@@ -1,6 +1,6 @@
 {
     "name": "Sideload NEO Repository",
-    "identifier": "sideload.ipa-repo",
+    "identifier": "sideloadneo.ipa-repo",
     "iconURL": "https://github.com/Sideload-NEO/IOS-Repo/blob/main/Images/sideload-neoicon.png?raw=true",
     "apps": [
       {
@@ -95,13 +95,13 @@
         "name": "EeveeSpotify",
         "bundleIdentifier": "com.spotify.client",
         "developerName": "EeveeSpotify IPA's",
-        "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.locket.Locket.png",
+        "iconURL": "https://github.com/Sideload-NEO/IOS-Repo/blob/main/Images/spotify.png?raw=true",
         "versions": [
           {
             "version": "8.9.76",
             "date": "2024-09-18",
             "size": 79401385,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-24-2024/LocketWidgetGold-1.63.0.ipa",
+            "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/EeveeSpotify-8.9.76.ipa",
             "localizedDescription": "As the successor of the original and now outdated Spotilife tweak, EeveeSpotify emerges as the first and only tweak (for now) with significant potential for accessing Spotify Premium. Note: Use trollfools to fix widgets."
           }
         ]
