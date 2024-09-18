@@ -92,6 +92,39 @@
         "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/PsychEngine073.ipa"
       },
       {
+        "name": "Friday Night Funkin': Psych Engine",
+        "bundleIdentifier": "com.shadowmario.psychengine",
+        "developerName": "mcagabe19",
+        "iconURL": "https://github.com/Sideload-NEO/IOS-Repo/blob/main/Images/funkin.png?raw=true",
+        "localizedDescription": "Friday Night Funkin': Psych Engine IOS Port. Made by: mcagabe19",
+        "size": 327699588,
+        "version": "1.0 Prerelease",
+        "versionDate": "2024-09-18",
+        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/PsychEngine10pre.ipa"
+      },
+      {
+        "name": "Friday Night Funkin': Psych Online",
+        "bundleIdentifier": "com.snirozu.psychonline",
+        "developerName": "mcagabe19",
+        "iconURL": "https://github.com/Sideload-NEO/IOS-Repo/blob/main/Images/funkin.png?raw=true",
+        "localizedDescription": "Friday Night Funkin': Psych Online IOS Port. Made by: mcagabe19",
+        "size": 320794929,
+        "version": "0.7.7",
+        "versionDate": "2024-09-18",
+        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/PsychOnline077.ipa"
+      },
+      {
+        "name": "Friday Night Funkin': Codename Engine",
+        "bundleIdentifier": "com.yoshman29.codenameengine",
+        "developerName": "mcagabe19",
+        "iconURL": "https://github.com/Sideload-NEO/IOS-Repo/blob/main/Images/funkin.png?raw=true",
+        "localizedDescription": "Friday Night Funkin': Codename Engine IOS Port. Made by: mcagabe19",
+        "size": 178698410,
+        "version": "0.1.0",
+        "versionDate": "2024-09-18",
+        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/CodenameEngine010.ipa"
+      },
+      {
         "name": "Scarlet",
         "bundleIdentifier": "com.DebianArch.ScarletPersonalXYZZZ",
         "developerName": "usescarlet.com",
