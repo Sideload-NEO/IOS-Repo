@@ -12,7 +12,29 @@
         "size": 12480714,
         "version": "1.0.1",
         "versionDate": "2024-09-14",
-        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/feather_v1.0.1.ipa"
+        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/releases/download/1.0.0/feather_v1.0.1.ipa"
+      },
+      {
+        "name": "Feather",
+        "bundleIdentifier": "kh.crysalis.feather",
+        "developerName": "Samara",
+        "iconURL": "https://github.com/Sideload-NEO/IOS-Repo/blob/main/Images/feather.png?raw=true",
+        "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.",
+        "size": 12500831,
+        "version": "1.0.2",
+        "versionDate": "2024-09-19",
+        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/releases/download/1.0.0/feather_v1.0.2.ipa"
+      },
+      {
+        "name": "iTorrent",
+        "bundleIdentifier": "com.sideloadneo.itorrent",
+        "developerName": "XITRIX",
+        "iconURL": "https://github.com/Sideload-NEO/IOS-Repo/blob/main/Images/feather.png?raw=true",
+        "localizedDescription": "Torrent client for iOS 16+",
+        "size": 6581661,
+        "version": "2.0.10",
+        "versionDate": "2024-09-19",
+        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/releases/download/1.0.0/iTorrent_v2.0.10-1.ipa"
       },
       {
         "name": "ESign No Logs",
@@ -23,7 +45,7 @@
         "size": 7245924,
         "version": "5.0.2",
         "versionDate": "2024-09-14",
-        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/ESign-V5.0.2-No-Logs.ipa"
+        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/releases/download/1.0.0/ESign-V5.0.2-No-Logs.ipa"
       },
       {
         "name": "Feather",
@@ -34,7 +56,7 @@
         "size": 12375230,
         "version": "1.0",
         "versionDate": "2024-09-15",
-        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/feather_v1.0.ipa"
+        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/releases/download/1.0.0/feather_v1.0.ipa"
       },
       {
         "name": "Undertale",
@@ -45,7 +67,73 @@
         "size": 140504128,
         "version": "1.08",
         "versionDate": "2024-09-15",
-        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/UNDERTALE.ipa"
+        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/releases/download/1.0.0/UNDERTALE.ipa"
+      },
+      {
+        "name": "Friday Night Funkin': Psych Engine",
+        "bundleIdentifier": "com.shadowmario.psychengine",
+        "developerName": "mcagabe19",
+        "iconURL": "https://github.com/Sideload-NEO/IOS-Repo/blob/main/Images/funkin.png?raw=true",
+        "localizedDescription": "Friday Night Funkin': Psych Engine IOS Port. Made by: mcagabe19",
+        "size": 182425804,
+        "version": "0.7.3",
+        "versionDate": "2024-09-15",
+        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/releases/download/1.0.0/PsychEngine073.ipa"
+      },
+      {
+        "name": "Friday Night Funkin': Psych Engine",
+        "bundleIdentifier": "com.shadowmario.psychengine",
+        "developerName": "mcagabe19",
+        "iconURL": "https://github.com/Sideload-NEO/IOS-Repo/blob/main/Images/funkin.png?raw=true",
+        "localizedDescription": "Friday Night Funkin': Psych Engine IOS Port. Made by: mcagabe19",
+        "size": 182425804,
+        "version": "0.6.3",
+        "versionDate": "2024-09-15",
+        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/releases/download/1.0.0/PsychEngine073.ipa"
+      },
+      {
+        "name": "Friday Night Funkin': Psych Engine",
+        "bundleIdentifier": "com.shadowmario.psychengine",
+        "developerName": "mcagabe19",
+        "iconURL": "https://github.com/Sideload-NEO/IOS-Repo/blob/main/Images/funkin.png?raw=true",
+        "localizedDescription": "Friday Night Funkin': Psych Engine IOS Port. Made by: mcagabe19",
+        "size": 327699588,
+        "version": "1.0 Prerelease",
+        "versionDate": "2024-09-18",
+        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/releases/download/1.0.0/PsychEngine10pre.ipa"
+      },
+      {
+        "name": "Friday Night Funkin': Psych Online",
+        "bundleIdentifier": "com.snirozu.psychonline",
+        "developerName": "mcagabe19",
+        "iconURL": "https://github.com/Sideload-NEO/IOS-Repo/blob/main/Images/funkin.png?raw=true",
+        "localizedDescription": "Friday Night Funkin': Psych Online IOS Port. Made by: mcagabe19",
+        "size": 320794929,
+        "version": "0.7.7",
+        "versionDate": "2024-09-18",
+        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/releases/download/1.0.0/PsychOnline077.ipa"
+      },
+      {
+        "name": "Friday Night Funkin': Codename Engine",
+        "bundleIdentifier": "com.yoshman29.codenameengine",
+        "developerName": "mcagabe19",
+        "iconURL": "https://github.com/Sideload-NEO/IOS-Repo/blob/main/Images/funkin.png?raw=true",
+        "localizedDescription": "Friday Night Funkin': Codename Engine IOS Port. Made by: mcagabe19",
+        "size": 178698410,
+        "version": "0.1.0",
+        "versionDate": "2024-09-18",
+        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/releases/download/1.0.0/CodenameEngine010.ipa"
+      },
+      {
+        "name": "FNAF World Mobile",
+        "bundleIdentifier": "com.clickteam.fnafworld",
+        "developerName": "@lightcatdev",
+        "iconURL": "https://github.com/Sideload-NEO/IOS-Repo/blob/main/Images/fnafworld.png?raw=true",
+        "localizedDescription": "FNAF World Update 2 IOS Port by: @lightcatdev",
+        "size": 100228227,
+        "version": "1.2.4",
+        "versionDate": "2024-09-18",
+        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/releases/download/1.0.0/fnaf-world-mobile2.ipa"
       },
       {
         "name": "Deltarune",
@@ -56,7 +144,7 @@
         "size": 70277266,
         "version": "2.0.0",
         "versionDate": "2024-09-18",
-        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/deltarune.ipa"
+        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/releases/download/1.0.0/deltarune.ipa"
       },
       {
         "name": "Nugget",
@@ -67,7 +155,7 @@
         "size": 8358472,
         "version": "1.0",
         "versionDate": "2024-09-15",
-        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/Nugget.ipa"
+        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/releases/download/1.0.0/Nugget.ipa"
       },
       {
         "name": "Scarlet",
@@ -78,7 +166,7 @@
         "size": 15518924,
         "version": "1.0",
         "versionDate": "2024-09-17",
-        "downloadURL": "https://resources.usescarlet.com/repo/IPAs/ScarletAlpha.ipa"
+        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/releases/download/1.0.0/ScarletAlpha.ipa"
       },
       {
         "name": "YTLitePlus",
@@ -89,7 +177,7 @@
         "size": 113526418,
         "version": "19.37.2",
         "versionDate": "2024-09-18",
-        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/YTLitePlus_19.37.2_5.0.2.ipa"
+        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/releases/download/1.0.0/YTLitePlus_19.37.2_5.0.2.ipa"
       },
       {
         "name": "EeveeSpotify",
@@ -100,7 +188,7 @@
         "size": 15518924,
         "version": "8.9.76",
         "versionDate": "2024-09-18",
-        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/raw/main/IPA/EeveeSpotify-8.9.76.ipa"
+        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/releases/download/1.0.0/EeveeSpotify-8.9.76.ipa"
       }
     ],
     "news": []
