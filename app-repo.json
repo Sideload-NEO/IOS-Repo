@@ -158,6 +158,39 @@
         "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/releases/download/1.0.01/Funkin041.ipa"
       },
       {
+        "name": "Sonic Mania Plus",
+        "bundleIdentifier": "com.netflix.NGP.SonicMania",
+        "developerName": "Netflix",
+        "iconURL": "https://github.com/Sideload-NEO/IOS-Repo/blob/main/Images/sonicmania.png?raw=true",
+        "localizedDescription": "Sonic Mania Plus by Netflix.",
+        "size": 235361635,
+        "version": "5.1.1",
+        "versionDate": "2024-09-20",
+        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/releases/download/1.0.02/com.netflix.NGP.SonicMania_868451741.ipa"
+      },
+      {
+        "name": "Sonic Mania",
+        "bundleIdentifier": "com.wamwoowam.RSDKv5",
+        "developerName": "wamwoowam",
+        "iconURL": "https://github.com/Sideload-NEO/IOS-Repo/blob/main/Images/sonicmania.png?raw=true",
+        "localizedDescription": "Sonic Mania IOS Port by: wamwoowam",
+        "size": 2804666,
+        "version": "1.3",
+        "versionDate": "2024-09-20",
+        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/releases/download/1.0.02/SonicMania.ipa"
+      },
+      {
+        "name": "Sonic CD",
+        "bundleIdentifier": "com.sega.soniccd",
+        "developerName": "Christian White Head",
+        "iconURL": "https://github.com/Sideload-NEO/IOS-Repo/blob/main/Images/CD2011Art.png?raw=true",
+        "localizedDescription": "Sonic CD Classic IOS",
+        "size": 220007736,
+        "version": "3.2.1",
+        "versionDate": "2024-09-20",
+        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/releases/download/1.0.02/com.sega.soniccd_865471479.ipa"
+      },
+      {
         "name": "Nugget",
         "bundleIdentifier": "com.leemin.nugget",
         "developerName": "Leemin",
