@@ -147,6 +147,17 @@
         "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/releases/download/1.0.0/deltarune.ipa"
       },
       {
+        "name": "Friday Night Funkin'",
+        "bundleIdentifier": "com.funkin.fnf",
+        "developerName": "FunkinCrew & FunkinDroid",
+        "iconURL": "https://github.com/Sideload-NEO/IOS-Repo/blob/main/Images/funkin.png?raw=true",
+        "localizedDescription": "A Friday Night Funkin' IOS port made by FunkinDroid.",
+        "size": 70277266,
+        "version": "0.4.1",
+        "versionDate": "2024-09-20",
+        "downloadURL": "https://github.com/Sideload-NEO/IOS-Repo/releases/download/1.0.01/Funkin041.ipa"
+      },
+      {
         "name": "Nugget",
         "bundleIdentifier": "com.leemin.nugget",
         "developerName": "Leemin",
